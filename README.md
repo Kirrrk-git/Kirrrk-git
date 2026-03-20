@@ -60,12 +60,13 @@
 
 | 🔬 Project | 📋 Description | 🏷️ Stack |
 |---|---|---|
-| [**ML Disease Spread Simulation**](https://github.com/Kirrrk-git/seir-disease-simulation) | Epidemiological SEIR simulation with Random Forest Classifier (ROC-AUC 0.88), real-time Pygame visualization | Python · ML · Pygame |
-| [**Rey's Delivery System**](https://github.com/Kirrrk-git/reys-delivery-system) | Real-time food delivery platform with GPS tracking, REST APIs, and live order management | PHP · MySQL · JS |
-| [**ZKP Web3 Security Platform**](https://github.com/Kirrrk-git/zkp-web3-security) | Solidity to zero-knowledge proof converter — presented at LISK & OpenxAI Hackathons 2025 | React · TS · Solidity |
-| [**Physics Golf Game**](https://github.com/Kirrrk-git/physics-golf-game) | Browser golf game with real physics engine, collision detection, and procedural level generation | React · TypeScript |
-| [**Pet Adoption Platform**](https://github.com/Kirrrk-git/pet-adoption-platform) | Full-stack listings and service booking system built independently with Django | Django · MySQL |
-| [**Boxly Supply Chain System**](https://github.com/Kirrrk-git/boxly-supply-chain) | Agile-developed supply chain platform for a real B2B delivery business | Agile · System Design |
+| [**StoryVerse**](https://github.com/Kirrrk-git/storyverse) | Collaborative storytelling platform where writers create stories in an ever-expanding 3D universe — readers navigate XYZ space to discover floating story windows, branch narratives like Git, and compete in branch wars when storylines diverge | React · TypeScript |
+| [**ML Disease Spread Simulation**](https://github.com/Kirrrk-git/Disease-Spread-Simulation) | Epidemiological SEIR simulation with Random Forest Classifier (ROC-AUC 0.88), real-time Pygame visualization | Python · ML · Pygame |
+| [**Rey's Delivery System**](https://github.com/Kirrrk-git/ayskrim-website) | Real-time food delivery platform with GPS tracking, REST APIs, and live order management | PHP · MySQL · JS |
+| [**ZKP Web3 Security Platform**](https://github.com/Kirrrk-git/ARQIV_Prototype-main) | Solidity to zero-knowledge proof converter — presented at LISK & OpenxAI Hackathons 2025 | React · TS · Solidity |
+| [**Physics Golf Game**](https://github.com/Kirrrk-git/KirkGolfGame) | Browser golf game with real physics engine, collision detection, and procedural level generation | React · TypeScript |
+| [**Pet Adoption Platform**](https://github.com/Kirrrk-git/OnlyPetsRepo) | Full-stack listings and service booking system built independently with Django | Django · MySQL |
+| [**Boxly Supply Chain System**]() | Agile-developed supply chain platform for a real B2B delivery business | Agile · System Design |
 
 </div>
 
