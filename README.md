@@ -32,7 +32,7 @@
 
 **Frontend**
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind&theme=dark" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css&theme=dark" />
 
 <br/><br/>
 
