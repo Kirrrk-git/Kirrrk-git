@@ -22,23 +22,33 @@
 
 <div align="center">
 
+<br/>
+
 **Languages**
 
 <img src="https://skillicons.dev/icons?i=js,ts,python,php,java,cs&theme=dark" />
+
+<br/><br/>
 
 **Frontend**
 
 <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind&theme=dark" />
 
+<br/><br/>
+
 **Backend**
 
 <img src="https://skillicons.dev/icons?i=django,laravel,nodejs,express,fastapi&theme=dark" />
+
+<br/><br/>
 
 **Tools & Platforms**
 
 <img src="https://skillicons.dev/icons?i=git,github,docker,postman,figma&theme=dark" />
 <br/>
 <img src="https://skillicons.dev/icons?i=vscode,mysql&theme=dark" />
+
+<br/>
 
 </div>
 
@@ -100,7 +110,7 @@
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kirkgabriel)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:iamkirrrky@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&to=iamkirrrky@gmail.com)
 
 **Open to remote part-time, freelance, and junior developer opportunities.**
 
