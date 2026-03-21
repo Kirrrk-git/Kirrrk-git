@@ -72,7 +72,7 @@
 
 | 🔬 Project | 📋 Description | 🏷️ Stack |
 |---|---|---|
-| [**StoryVerse**](https://github.com/Kirrrk-git/storyverse) | Collaborative storytelling platform where writers create stories in an ever-expanding 3D universe — readers navigate XYZ space to discover floating story windows, branch narratives like Git, and compete in branch wars when storylines diverge | React · TypeScript |
+| [**StoryVerse**](https://github.com/Kirrrk-git/StoryVerse-StaticMirror) | Collaborative storytelling platform where writers create stories in an ever-expanding 3D universe — readers navigate XYZ space to discover floating story windows, branch narratives like Git, and compete in branch wars when storylines diverge | React · TypeScript |
 | [**ML Disease Spread Simulation**](https://github.com/Kirrrk-git/Disease-Spread-Simulation) | Epidemiological SEIR simulation with Random Forest Classifier (ROC-AUC 0.88), real-time Pygame visualization | Python · ML · Pygame |
 | [**Rey's Delivery System**](https://github.com/Kirrrk-git/ayskrim-website) | Real-time food delivery platform with GPS tracking, REST APIs, and live order management | PHP · MySQL · JS |
 | [**ZKP Web3 Security Platform**](https://github.com/Kirrrk-git/ARQIV_Prototype-main) | Solidity to zero-knowledge proof converter — presented at LISK & OpenxAI Hackathons 2025 | React · TS · Solidity |
