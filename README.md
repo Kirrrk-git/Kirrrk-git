@@ -29,26 +29,26 @@
       <img src="https://skillicons.dev/icons?i=js,ts,python,php,java,cs,dart&theme=dark" />
     </td>
     <td align="center" width="50%">
-      <b>Frontend</b><br/><br/>
-      <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css&theme=dark" />
+      <b>Databases</b><br/><br/>
+      <img src="https://skillicons.dev/icons?i=mysql,postgresql,sqlite&theme=dark" />
+      <img src="https://api.iconify.design/logos:firebase-icon.svg" width="48" height="48" alt="Firebase"/>
     </td>
   </tr>
   <tr>
+    <td align="center">
+      <b>Frontend</b><br/><br/>
+      <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css&theme=dark" />
+    </td>
     <td align="center">
       <b>Backend</b><br/><br/>
       <img src="https://skillicons.dev/icons?i=django,laravel,nodejs,express,fastapi&theme=dark" />
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <b>Mobile</b><br/><br/>
       <img src="https://skillicons.dev/icons?i=flutter,react&theme=dark" />
       <img src="https://cdn.simpleicons.org/expo/000000" width="48" height="48" alt="Expo"/>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <b>Databases</b><br/><br/>
-      <img src="https://skillicons.dev/icons?i=mysql,postgresql,sqlite&theme=dark" />
-      <img src="https://api.iconify.design/logos:firebase-icon.svg" width="48" height="48" alt="Firebase"/>
     </td>
     <td align="center">
       <b>CMS</b><br/><br/>
@@ -76,6 +76,7 @@
 </table>
 
 </div>
+
 ---
 
 ## 🚀 Featured Projects
