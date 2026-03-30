@@ -30,7 +30,7 @@
     </td>
     <td align="center" width="50%">
       <b>Databases</b><br/><br/>
-      <img src="https://skillicons.dev/icons?i=mysql,postgresql,sqlite&theme=dark" />
+      <img src="https://skillicons.dev/icons?i=mysql,postgresql,sqlite,supabase&theme=dark" />
       <img src="https://api.iconify.design/logos:firebase-icon.svg" width="48" height="48" alt="Firebase"/>
     </td>
   </tr>
@@ -66,7 +66,7 @@
     </td>
     <td align="center">
       <b>AI Tools</b><br/><br/>
-      <img src="https://cdn.simpleicons.org/anthropic/D97757" width="48" height="48" alt="Claude"/>
+      <img src="https://cdn.simpleicons.org/anthropic/DE7356" width="48" height="48" alt="Claude"/>
       <img src="https://cdn.simpleicons.org/githubcopilot/000000" width="48" height="48" alt="GitHub Copilot"/>
       <img src="https://cdn.simpleicons.org/cursor/000000" width="48" height="48" alt="Cursor"/>
       <img src="https://cdn.simpleicons.org/googlegemini/4796E3" width="48" height="48" alt="Gemini"/>
