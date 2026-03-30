@@ -82,16 +82,140 @@
 ## 🚀 Featured Projects
 
 <div align="center">
+<br/>
 
-| 🔬 Project | 📋 Description | 🏷️ Stack |
-|---|---|---|
-| [**StoryVerse**](https://github.com/Kirrrk-git/StoryVerse-StaticMirror) | Collaborative storytelling platform where writers create stories in an ever-expanding 3D universe — readers navigate XYZ space to discover floating story windows, branch narratives like Git, and compete in branch wars when storylines diverge | React · TypeScript |
-| [**ML Disease Spread Simulation**](https://github.com/Kirrrk-git/Disease-Spread-Simulation) | Epidemiological SEIR simulation with Random Forest Classifier (ROC-AUC 0.88), real-time Pygame visualization | Python · ML · Pygame |
-| [**Rey's Delivery System**](https://github.com/Kirrrk-git/ayskrim-website) | Real-time food delivery platform with GPS tracking, REST APIs, and live order management | PHP · MySQL · JS |
-| [**ZKP Web3 Security Platform**](https://github.com/Kirrrk-git/ARQIV_Prototype-main) | Solidity to zero-knowledge proof converter — presented at LISK & OpenxAI Hackathons 2025 | React · TS · Solidity |
-| [**Physics Golf Game**](https://github.com/Kirrrk-git/KirkGolfGame) | Browser golf game with real physics engine, collision detection, and procedural level generation | React · TypeScript |
-| [**Pet Adoption Platform**](https://github.com/Kirrrk-git/OnlyPetsRepo) | Full-stack listings and service booking system built independently with Django | Django · MySQL |
-| [**Boxly Supply Chain System**]() | Agile-developed supply chain platform for a real B2B delivery business | Agile · System Design |
+<table width="100%" border="0" cellpadding="0" cellspacing="0">
+<tr><td bgcolor="#6366f1" height="3"></td></tr>
+<tr><td bgcolor="#0d1117" style="padding:16px"><br/>
+
+<b>🌌 StoryVerse</b> &nbsp;
+<a href="https://story-verse-by-kirk.vercel.app"><img src="https://img.shields.io/badge/Live-6366f1?style=flat-square&logo=vercel&logoColor=white"/></a> &nbsp;
+<a href="https://github.com/Kirrrk-git/StoryVerse-StaticMirror"><img src="https://img.shields.io/badge/Repo-30363d?style=flat-square&logo=github&logoColor=white"/></a>
+<br/><sub>Collaborative 3D storytelling universe</sub><br/><br/>
+Writers build stories in an expanding 3D universe — navigate XYZ space to discover floating story windows, branch narratives like Git, and compete in branch wars when storylines diverge.
+<br/><br/>
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square"/>
+<img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square"/>
+<img src="https://img.shields.io/badge/D3.js-F9A03C?style=flat-square"/>
+<img src="https://img.shields.io/badge/GSAP-88CE02?style=flat-square"/>
+<br/><br/>
+
+</td></tr>
+</table>
+
+<br/>
+
+<table width="100%" border="0" cellpadding="0" cellspacing="0">
+<tr><td bgcolor="#10b981" height="3"></td></tr>
+<tr><td bgcolor="#0d1117" style="padding:16px"><br/>
+
+<b>🦠 ML Disease Spread Simulation</b> &nbsp;
+<a href="https://github.com/Kirrrk-git/Disease-Spread-Simulation"><img src="https://img.shields.io/badge/Repo-30363d?style=flat-square&logo=github&logoColor=white"/></a>
+<br/><sub>Epidemiological SEIR modeling with machine learning</sub><br/><br/>
+SEIR simulation with Random Forest Classifier achieving ROC-AUC 0.88, with real-time Pygame visualization and predictive outbreak detection.
+<br/><br/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square"/>
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square"/>
+<img src="https://img.shields.io/badge/Pygame-3776AB?style=flat-square"/>
+<br/><br/>
+
+</td></tr>
+</table>
+
+<br/>
+
+<table width="100%" border="0" cellpadding="0" cellspacing="0">
+<tr><td bgcolor="#f59e0b" height="3"></td></tr>
+<tr><td bgcolor="#0d1117" style="padding:16px"><br/>
+
+<b>🍦 Rey's Delivery System</b> &nbsp;
+<a href="https://github.com/Kirrrk-git/ayskrim-website"><img src="https://img.shields.io/badge/Repo-30363d?style=flat-square&logo=github&logoColor=white"/></a>
+<br/><sub>Real-time food delivery platform</sub><br/><br/>
+Full-stack delivery app with GPS tracking, REST APIs, and live order management — built for a real ice cream delivery business in Davao.
+<br/><br/>
+<img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square"/>
+<br/><br/>
+
+</td></tr>
+</table>
+
+<br/>
+
+<table width="100%" border="0" cellpadding="0" cellspacing="0">
+<tr><td bgcolor="#8b5cf6" height="3"></td></tr>
+<tr><td bgcolor="#0d1117" style="padding:16px"><br/>
+
+<b>🔐 ZKP Web3 Security Platform</b> &nbsp;
+<img src="https://img.shields.io/badge/LISK%20Hackathon-FFB800?style=flat-square"/>
+<img src="https://img.shields.io/badge/OpenxAI%20Hackathon-8b5cf6?style=flat-square"/>
+&nbsp;
+<a href="https://github.com/Kirrrk-git/ARQIV_Prototype-main"><img src="https://img.shields.io/badge/Repo-30363d?style=flat-square&logo=github&logoColor=white"/></a>
+<br/><sub>Zero-knowledge proof security tooling on Solidity</sub><br/><br/>
+Solidity to zero-knowledge proof converter — enhances smart contract privacy and security. Presented at LISK & OpenxAI Hackathons 2025.
+<br/><br/>
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square"/>
+<img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square"/>
+<img src="https://img.shields.io/badge/Solidity-363636?style=flat-square"/>
+<br/><br/>
+
+</td></tr>
+</table>
+
+<br/>
+
+<table width="100%" border="0" cellpadding="0" cellspacing="0">
+<tr><td bgcolor="#3b82f6" height="3"></td></tr>
+<tr><td bgcolor="#0d1117" style="padding:16px"><br/>
+
+<b>⛳ Physics Golf Game</b> &nbsp;
+<a href="https://github.com/Kirrrk-git/KirkGolfGame"><img src="https://img.shields.io/badge/Repo-30363d?style=flat-square&logo=github&logoColor=white"/></a>
+<br/><sub>Browser-based physics game</sub><br/><br/>
+Browser golf game with a real physics engine, collision detection, and procedural level generation — fully playable with no install required.
+<br/><br/>
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square"/>
+<img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square"/>
+<br/><br/>
+
+</td></tr>
+</table>
+
+<br/>
+
+<table width="100%" border="0" cellpadding="0" cellspacing="0">
+<tr><td bgcolor="#ec4899" height="3"></td></tr>
+<tr><td bgcolor="#0d1117" style="padding:16px"><br/>
+
+<b>🐾 Pet Adoption Platform</b> &nbsp;
+<a href="https://github.com/Kirrrk-git/OnlyPetsRepo"><img src="https://img.shields.io/badge/Repo-30363d?style=flat-square&logo=github&logoColor=white"/></a>
+<br/><sub>Full-stack listings & service booking system</sub><br/><br/>
+Independently built full-stack platform for pet listings, profiles, and service booking — designed and developed end-to-end with Django.
+<br/><br/>
+<img src="https://img.shields.io/badge/Django-44B78B?style=flat-square"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square"/>
+<br/><br/>
+
+</td></tr>
+</table>
+
+<br/>
+
+<table width="100%" border="0" cellpadding="0" cellspacing="0">
+<tr><td bgcolor="#14b8a6" height="3"></td></tr>
+<tr><td bgcolor="#0d1117" style="padding:16px"><br/>
+
+<b>📦 Boxly Supply Chain System</b> &nbsp;
+<img src="https://img.shields.io/badge/Private-30363d?style=flat-square&logo=github&logoColor=white"/>
+<br/><sub>B2B delivery & supply chain platform</sub><br/><br/>
+Agile-developed supply chain platform for a real B2B delivery business — covering inventory tracking, logistics coordination, and order management.
+<br/><br/>
+<img src="https://img.shields.io/badge/Agile-0052CC?style=flat-square"/>
+<img src="https://img.shields.io/badge/System%20Design-14b8a6?style=flat-square"/>
+<br/><br/>
+
+</td></tr>
+</table>
 
 </div>
 
@@ -101,21 +225,10 @@
 
 <div align="center">
 
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=Kirrrk-git&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=default&title_color=4f46e5&icon_color=4f46e5&cache_seconds=1800" height="170"/>
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kirrrk-git&layout=compact&hide_border=true&langs_count=8&theme=default&title_color=4f46e5&cache_seconds=1800&hide=jupyter%20notebook" height="170"/>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center">
-      <img src="https://github-readme-streak-stats.herokuapp.com?user=Kirrrk-git&theme=default&hide_border=true&ring=4f46e5&fire=4f46e5&currStreakLabel=4f46e5" width="100%"/>
-    </td>
-  </tr>
-</table>
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Kirrrk-git&theme=github)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Kirrrk-git&theme=github&exclude=Jupyter%20Notebook)
+![GitHub Streak](https://streak-stats.demolab.com?user=Kirrrk-git&theme=default&hide_border=true&ring=4f46e5&fire=4f46e5&currStreakLabel=4f46e5)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kirrrk-git&theme=github)
 
 </div>
 
@@ -133,13 +246,9 @@
 
 ## 📫 Let's Connect
 
-<div align="center">
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kirkgabriel)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&to=iamkirrrky@gmail.com)
 
 **Open to remote part-time, freelance, and junior developer opportunities.**
-
-</div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d1a,100:000000&height=120&section=footer" width="100%"/>
