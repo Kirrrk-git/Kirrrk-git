@@ -22,70 +22,60 @@
 
 <div align="center">
 
-<br/>
-
-**Languages**
-
-<img src="https://skillicons.dev/icons?i=js,ts,python,php,java,cs,dart&theme=dark" />
-
-<br/><br/>
-
-**Frontend**
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css&theme=dark" />
-
-<br/><br/>
-
-**Backend**
-
-<img src="https://skillicons.dev/icons?i=django,laravel,nodejs,express,fastapi&theme=dark" />
-
-<br/><br/>
-
-**Mobile**
-
-<img src="https://skillicons.dev/icons?i=flutter,react&theme=dark" />
-<img src="https://cdn.simpleicons.org/expo/000000" width="48" height="48" alt="Expo"/>
-
-<br/><br/>
-
-**Databases**
-
-<img src="https://skillicons.dev/icons?i=mysql,postgresql,sqlite&theme=dark" />
-<img src="https://api.iconify.design/logos:firebase-icon.svg" width="48" height="48" alt="Firebase"/>
-
-<br/><br/>
-
-**CMS**
-
-<img src="https://skillicons.dev/icons?i=wordpress&theme=dark" />
-<img src="https://cdn.simpleicons.org/webflow/4353FF" width="48" height="48" alt="Webflow"/>
-<img src="https://cdn.simpleicons.org/drupal/0678BE" width="48" height="48" alt="Drupal"/>
-<img src="https://cdn.simpleicons.org/strapi/4945FF" width="48" height="48" alt="Strapi"/>
-<img src="https://cdn.simpleicons.org/octobercms/DB6A26" width="48" height="48" alt="OctoberCMS"/>
-
-<br/><br/>
-
-**Tools**
-
-<img src="https://skillicons.dev/icons?i=github,docker,postman,figma&theme=dark" />
-
-<br/><br/>
-
-**AI Tools**
-
-<img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" />
-<img src="https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white" />
-<img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" />
-<img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" />
-<img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=chatgpt&logoColor=white" />
-<img src="https://img.shields.io/badge/Perplexity-1FB8CD?style=for-the-badge&logo=perplexity&logoColor=white" />
-<img src="https://img.shields.io/badge/Grok-000000?style=for-the-badge&logo=x&logoColor=white" />
-
-<br/>
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <b>Languages</b><br/><br/>
+      <img src="https://skillicons.dev/icons?i=js,ts,python,php,java,cs,dart&theme=dark" />
+    </td>
+    <td align="center" width="50%">
+      <b>Frontend</b><br/><br/>
+      <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css&theme=dark" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <b>Backend</b><br/><br/>
+      <img src="https://skillicons.dev/icons?i=django,laravel,nodejs,express,fastapi&theme=dark" />
+    </td>
+    <td align="center">
+      <b>Mobile</b><br/><br/>
+      <img src="https://skillicons.dev/icons?i=flutter,react&theme=dark" />
+      <img src="https://cdn.simpleicons.org/expo/000000" width="48" height="48" alt="Expo"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <b>Databases</b><br/><br/>
+      <img src="https://skillicons.dev/icons?i=mysql,postgresql,sqlite&theme=dark" />
+      <img src="https://api.iconify.design/logos:firebase-icon.svg" width="48" height="48" alt="Firebase"/>
+    </td>
+    <td align="center">
+      <b>CMS</b><br/><br/>
+      <img src="https://skillicons.dev/icons?i=wordpress&theme=dark" />
+      <img src="https://cdn.simpleicons.org/webflow/4353FF" width="48" height="48" alt="Webflow"/>
+      <img src="https://cdn.simpleicons.org/drupal/0678BE" width="48" height="48" alt="Drupal"/>
+      <img src="https://cdn.simpleicons.org/strapi/4945FF" width="48" height="48" alt="Strapi"/>
+      <img src="https://cdn.simpleicons.org/octobercms/DB6A26" width="48" height="48" alt="OctoberCMS"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <b>Tools</b><br/><br/>
+      <img src="https://skillicons.dev/icons?i=github,docker,postman,figma&theme=dark" />
+    </td>
+    <td align="center">
+      <b>AI Tools</b><br/><br/>
+      <img src="https://cdn.simpleicons.org/anthropic/D97757" width="48" height="48" alt="Claude"/>
+      <img src="https://cdn.simpleicons.org/githubcopilot/000000" width="48" height="48" alt="GitHub Copilot"/>
+      <img src="https://cdn.simpleicons.org/cursor/000000" width="48" height="48" alt="Cursor"/>
+      <img src="https://cdn.simpleicons.org/googlegemini/4796E3" width="48" height="48" alt="Gemini"/>
+      <img src="https://api.iconify.design/logos:openai-icon.svg" width="48" height="48" alt="ChatGPT"/>
+    </td>
+  </tr>
+</table>
 
 </div>
-
 ---
 
 ## 🚀 Featured Projects
