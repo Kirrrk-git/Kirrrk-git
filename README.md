@@ -26,7 +26,7 @@
 
 **Languages**
 
-<img src="https://skillicons.dev/icons?i=js,ts,python,php,java,cs&theme=dark" />
+<img src="https://skillicons.dev/icons?i=js,ts,python,php,java,cs,dart&theme=dark" />
 
 <br/><br/>
 
@@ -42,11 +42,33 @@
 
 <br/><br/>
 
-**Tools & Platforms**
+**Mobile**
 
-<img src="https://skillicons.dev/icons?i=git,github,docker,postman,figma&theme=dark" />
-<br/>
-<img src="https://skillicons.dev/icons?i=vscode,mysql&theme=dark" />
+<img src="https://skillicons.dev/icons?i=flutter,react&theme=dark" />
+<img src="https://cdn.simpleicons.org/expo/000000" width="48" height="48" alt="Expo"/>
+
+<br/><br/>
+
+**Databases**
+
+<img src="https://skillicons.dev/icons?i=mysql,postgresql,sqlite&theme=dark" />
+<img src="https://api.iconify.design/logos:firebase-icon.svg" width="48" height="48" alt="Firebase"/>
+
+<br/><br/>
+
+**CMS**
+
+<img src="https://skillicons.dev/icons?i=wordpress&theme=dark" />
+<img src="https://cdn.simpleicons.org/webflow/4353FF" width="48" height="48" alt="Webflow"/>
+<img src="https://cdn.simpleicons.org/drupal/0678BE" width="48" height="48" alt="Drupal"/>
+<img src="https://cdn.simpleicons.org/strapi/4945FF" width="48" height="48" alt="Strapi"/>
+<img src="https://cdn.simpleicons.org/octobercms/DB6A26" width="48" height="48" alt="OctoberCMS"/>
+
+<br/><br/>
+
+**Tools**
+
+<img src="https://skillicons.dev/icons?i=github,docker,postman,figma&theme=dark" />
 
 <br/><br/>
 
