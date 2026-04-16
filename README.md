@@ -17,12 +17,13 @@
 ```
 
 ---
-
 ## 🛠️ Tech Stack
 
 <div align="center">
 
 <table width="100%">
+
+<!-- LANGUAGES + FRONTEND -->
 <tr>
 <td align="center" width="50%">
 <b>Languages</b><br/><br/>
@@ -30,56 +31,78 @@
 </td>
 
 <td align="center" width="50%">
-<b>Databases</b><br/><br/>
-<img src="https://skillicons.dev/icons?i=mysql,postgresql,sqlite,supabase&theme=dark" height="40"/>
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/firebase.svg" height="40" alt="Firebase"/>
-</td>
-</tr>
-
-<tr>
-<td align="center">
 <b>Frontend</b><br/><br/>
 <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css&theme=dark" height="40"/>
 </td>
+</tr>
 
-<td align="center">
-<b>Backend</b><br/><br/>
-<img src="https://skillicons.dev/icons?i=django,laravel,nodejs,express,fastapi&theme=dark" height="40"/>
+<!-- BACKEND -->
+<tr>
+<td align="center" width="50%">
+<b>Backend Frameworks</b><br/><br/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,django,laravel&theme=dark" height="40"/>
+</td>
+
+<td align="center" width="50%">
+<b>Databases</b><br/><br/>
+<img src="https://skillicons.dev/icons?i=mysql,postgresql,sqlite,supabase&theme=dark" height="40"/>
+<img src="https://cdn.simpleicons.org/firebase/F57C00" height="40" alt="Firebase"/>
+<img src="https://cdn.simpleicons.org/prisma/2D3748" height="40" alt="Prisma"/>
 </td>
 </tr>
 
+<!-- CLOUD / INFRA -->
 <tr>
-<td align="center">
-<b>Mobile</b><br/><br/>
+<td align="center" width="50%">
+<b>Backend Infrastructure</b><br/><br/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" height="40" alt="AWS"/>
+<img src="https://cdn.simpleicons.org/cloudflare/F38020" height="40" alt="Cloudflare"/>
+<img src="https://cdn.simpleicons.org/railway/0B0D0E" height="40" alt="Railway"/>
+<img src="https://cdn.simpleicons.org/render/46E3B7" height="40" alt="Render"/>
+</td>
+
+<td align="center" width="50%">
+<b>Mobile Development</b><br/><br/>
 <img src="https://skillicons.dev/icons?i=flutter,react&theme=dark" height="40"/>
 <img src="https://cdn.simpleicons.org/expo/000000" height="40"/>
 </td>
-
-<td align="center">
-<b>CMS</b><br/><br/>
-<img src="https://skillicons.dev/icons?i=wordpress&theme=dark" height="40"/>
-<img src="https://cdn.simpleicons.org/webflow/4353FF" height="40"/>
-<img src="https://cdn.simpleicons.org/drupal/0678BE" height="40"/>
-<img src="https://cdn.simpleicons.org/strapi/4945FF" height="40"/>
-<img src="https://cdn.simpleicons.org/octobercms/DB6A26" height="40"/>
-</td>
 </tr>
 
+<!-- CMS + TOOLS -->
 <tr>
-<td align="center">
-<b>Tools</b><br/><br/>
-<img src="https://skillicons.dev/icons?i=github,docker,postman,figma&theme=dark" height="40"/>
+<td align="center" width="50%">
+<b>CMS / Website Builders</b><br/><br/>
+<img src="https://skillicons.dev/icons?i=wordpress&theme=dark" height="40"/>
+<img src="https://cdn.simpleicons.org/drupal/0678BE" height="40"/>
+<img src="https://cdn.simpleicons.org/octobercms/DB6A26" height="40"/>
+<img src="https://cdn.simpleicons.org/strapi/4945FF" height="40"/>
+<img src="https://cdn.simpleicons.org/webflow/4353FF" height="40"/>
+<img src="https://cdn.simpleicons.org/framer/0055FF" height="40" alt="Framer AI"/>
+
 </td>
 
-<td align="center">
-<b>AI Tools</b><br/><br/>
-<img src="https://cdn.simpleicons.org/anthropic/DE7356" height="40"/>
-<img src="https://cdn.simpleicons.org/githubcopilot/000000" height="40"/>
-<img src="https://cdn.simpleicons.org/cursor/000000" height="40"/>
-<img src="https://cdn.simpleicons.org/googlegemini/4796E3" height="40"/>
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/openai.svg" height="40" alt="OpenAI"/>
+<td align="center" width="50%">
+<b>Developer Tools</b><br/><br/>
+<img src="https://skillicons.dev/icons?i=github,docker,postman,figma&theme=dark" height="40"/>
+<img src="https://cdn.simpleicons.org/vercel/000000" height="40"/>
+<img src="https://cdn.simpleicons.org/netlify/00C7B7" height="40"/>
+<img src="https://cdn.simpleicons.org/googlecolab/F48400" height="40"/>
+<img src="https://cdn.simpleicons.org/kaggle/46A2DA" height="40"/>
 </td>
 </tr>
+
+<!-- AI TOOLS -->
+<tr>
+<td align="center" colspan="2">
+<b>AI Tools</b><br/><br/>
+<img src="https://cdn.simpleicons.org/claude/DE7356" height="40"/>
+<img src="https://cdn.simpleicons.org/githubcopilot/000000" height="40"/>
+<img src="https://cdn.simpleicons.org/googlegemini/4796E3" height="40"/>
+<img src="https://cdn.simpleicons.org/cursor/000000" height="40"/>
+<img src="https://cdn.simpleicons.org/huggingface/FCC624" height="40"/>
+</td>
+</tr>
+
 </table>
 
 </div>
