@@ -183,7 +183,7 @@ Full-stack delivery app with GPS tracking, REST APIs, and live order management 
 &nbsp;
 <a href="https://github.com/Kirrrk-git/ARQIV_Prototype-main"><img src="https://img.shields.io/badge/Repo-30363d?style=flat-square&logo=github&logoColor=white"/></a>
 <br/><sub>Zero-knowledge proof security tooling on Solidity</sub><br/><br/>
-Solidity to zero-knowledge proof converter — enhances smart contract privacy and security. Presented at LISK & OpenxAI Hackathons 2025.
+Solidity to zero-knowledge proof converter — enhances smart contract privacy and security.
 <br/><br/>
 <img src="https://img.shields.io/badge/React-20232A?style=flat-square"/>
 <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square"/>
@@ -261,16 +261,6 @@ Agile-developed supply chain platform for a real B2B delivery business — cover
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kirrrk-git&theme=github)
 
 </div>
-
----
-
-## 🏆 Highlights
-
-- 🥇 **Dean's Lister** — University of Mindanao, 2024–2025
-- ⚡ **LISK Hackathon 2025** — ZKP-Enhanced Web3 Security Platform
-- 🤖 **OpenxAI Hackathon 2025** — Iterated and improved ZKP platform
-- 🎓 **IT Specialist – Database Certification** (2024)
-- 🧠 **ENIGMA CS Organization** — Member & Creative Committee
 
 ---
 
