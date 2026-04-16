@@ -22,57 +22,64 @@
 
 <div align="center">
 
-<table>
-  <tr>
-    <td align="center" width="50%">
-      <b>Languages</b><br/><br/>
-      <img src="https://skillicons.dev/icons?i=js,ts,python,php,java,cs,dart&theme=dark" />
-    </td>
-    <td align="center" width="50%">
-      <b>Databases</b><br/><br/>
-      <img src="https://skillicons.dev/icons?i=mysql,postgresql,sqlite,supabase&theme=dark" />
-      <img src="https://api.iconify.design/logos:firebase-icon.svg" width="48" height="48" alt="Firebase"/>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <b>Frontend</b><br/><br/>
-      <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css&theme=dark" />
-    </td>
-    <td align="center">
-      <b>Backend</b><br/><br/>
-      <img src="https://skillicons.dev/icons?i=django,laravel,nodejs,express,fastapi&theme=dark" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <b>Mobile</b><br/><br/>
-      <img src="https://skillicons.dev/icons?i=flutter,react&theme=dark" />
-      <img src="https://cdn.simpleicons.org/expo/000000" width="48" height="48" alt="Expo"/>
-    </td>
-    <td align="center">
-      <b>CMS</b><br/><br/>
-      <img src="https://skillicons.dev/icons?i=wordpress&theme=dark" />
-      <img src="https://cdn.simpleicons.org/webflow/4353FF" width="48" height="48" alt="Webflow"/>
-      <img src="https://cdn.simpleicons.org/drupal/0678BE" width="48" height="48" alt="Drupal"/>
-      <img src="https://cdn.simpleicons.org/strapi/4945FF" width="48" height="48" alt="Strapi"/>
-      <img src="https://cdn.simpleicons.org/octobercms/DB6A26" width="48" height="48" alt="OctoberCMS"/>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <b>Tools</b><br/><br/>
-      <img src="https://skillicons.dev/icons?i=github,docker,postman,figma&theme=dark" />
-    </td>
-    <td align="center">
-      <b>AI Tools</b><br/><br/>
-      <img src="https://cdn.simpleicons.org/anthropic/DE7356" width="48" height="48" alt="Claude"/>
-      <img src="https://cdn.simpleicons.org/githubcopilot/000000" width="48" height="48" alt="GitHub Copilot"/>
-      <img src="https://cdn.simpleicons.org/cursor/000000" width="48" height="48" alt="Cursor"/>
-      <img src="https://cdn.simpleicons.org/googlegemini/4796E3" width="48" height="48" alt="Gemini"/>
-      <img src="https://api.iconify.design/logos:openai-icon.svg" width="48" height="48" alt="ChatGPT"/>
-    </td>
-  </tr>
+<table width="100%">
+<tr>
+<td align="center" width="50%">
+<b>Languages</b><br/><br/>
+<img src="https://skillicons.dev/icons?i=js,ts,python,php,java,cs,dart&theme=dark" height="40"/>
+</td>
+
+<td align="center" width="50%">
+<b>Databases</b><br/><br/>
+<img src="https://skillicons.dev/icons?i=mysql,postgresql,sqlite,supabase&theme=dark" height="40"/>
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/firebase.svg" height="40" alt="Firebase"/>
+</td>
+</tr>
+
+<tr>
+<td align="center">
+<b>Frontend</b><br/><br/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css&theme=dark" height="40"/>
+</td>
+
+<td align="center">
+<b>Backend</b><br/><br/>
+<img src="https://skillicons.dev/icons?i=django,laravel,nodejs,express,fastapi&theme=dark" height="40"/>
+</td>
+</tr>
+
+<tr>
+<td align="center">
+<b>Mobile</b><br/><br/>
+<img src="https://skillicons.dev/icons?i=flutter,react&theme=dark" height="40"/>
+<img src="https://cdn.simpleicons.org/expo/000000" height="40"/>
+</td>
+
+<td align="center">
+<b>CMS</b><br/><br/>
+<img src="https://skillicons.dev/icons?i=wordpress&theme=dark" height="40"/>
+<img src="https://cdn.simpleicons.org/webflow/4353FF" height="40"/>
+<img src="https://cdn.simpleicons.org/drupal/0678BE" height="40"/>
+<img src="https://cdn.simpleicons.org/strapi/4945FF" height="40"/>
+<img src="https://cdn.simpleicons.org/octobercms/DB6A26" height="40"/>
+</td>
+</tr>
+
+<tr>
+<td align="center">
+<b>Tools</b><br/><br/>
+<img src="https://skillicons.dev/icons?i=github,docker,postman,figma&theme=dark" height="40"/>
+</td>
+
+<td align="center">
+<b>AI Tools</b><br/><br/>
+<img src="https://cdn.simpleicons.org/anthropic/DE7356" height="40"/>
+<img src="https://cdn.simpleicons.org/githubcopilot/000000" height="40"/>
+<img src="https://cdn.simpleicons.org/cursor/000000" height="40"/>
+<img src="https://cdn.simpleicons.org/googlegemini/4796E3" height="40"/>
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/openai.svg" height="40" alt="OpenAI"/>
+</td>
+</tr>
 </table>
 
 </div>
