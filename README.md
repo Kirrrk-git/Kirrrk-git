@@ -183,7 +183,7 @@ Full-stack delivery app with GPS tracking, REST APIs, and live order management 
 &nbsp;
 <a href="https://github.com/Kirrrk-git/ARQIV_Prototype-main"><img src="https://img.shields.io/badge/Repo-30363d?style=flat-square&logo=github&logoColor=white"/></a>
 <br/><sub>Zero-knowledge proof security tooling on Solidity</sub><br/><br/>
-Solidity to zero-knowledge proof converter — enhances smart contract privacy and security.
+Solidity to zero-knowledge proof converter — enhances smart contract privacy and security by enabling verifiable computations without revealing underlying data.
 <br/><br/>
 <img src="https://img.shields.io/badge/React-20232A?style=flat-square"/>
 <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square"/>
