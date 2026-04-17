@@ -1,10 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:0d0d1a&height=200&section=header&text=Kirk%20Gabriel&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20CS%20Student&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0f1e,100:1e3a6e&height=200&section=header&text=Kirk%20Gabriel&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20CS%20Student&descAlignY=58&descSize=18" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=550&size=30&pause=1000&color=4B4E53&center=true&vCenter=true&width=600&lines=Building+things+that+work.;Full-Stack+Web+%26+App+Developer;Open+to+Remote+%26+Freelance+Roles)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=550&size=30&pause=1000&color=60A5FA&center=true&vCenter=true&width=600&lines=Building+things+that+work.;Full-Stack+Web+%26+App+Developer;Open+to+Remote+%26+Freelance+Roles)](https://git.io/typing-svg)
 
 </div>
+
+![Profile Views](https://komarev.com/ghpvc/?username=Kirrrk-git&color=3b82f6&style=flat-square&label=Profile+Views)
 
 ---
 
@@ -255,10 +257,12 @@ Agile-developed supply chain platform for a real B2B delivery business — cover
 
 <div align="center">
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Kirrrk-git&theme=github)
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Kirrrk-git&theme=github&exclude=Jupyter%20Notebook)
-![GitHub Streak](https://streak-stats.demolab.com?user=Kirrrk-git&theme=default&hide_border=true&ring=4f46e5&fire=4f46e5&currStreakLabel=4f46e5)
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kirrrk-git&theme=github)
+<img src="https://github-readme-stats.vercel.app/api?username=Kirrrk-git&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" height="160"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kirrrk-git&layout=compact&theme=github_dark&hide_border=true&langs_count=8&hide=jupyter%20notebook,hack,batchfile" height="160"/>
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Kirrrk-git&theme=github-dark-blue&hide_border=true&ring=4f46e5&fire=4f46e5&currStreakLabel=4f46e5)
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Kirrrk-git&theme=react-dark&hide_border=true&color=60A5FA&line=3b82f6&point=60A5FA)
 
 </div>
 
@@ -273,4 +277,4 @@ Agile-developed supply chain platform for a real B2B delivery business — cover
 **Open to remote part-time, freelance, and junior developer opportunities.**
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d1a,100:000000&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a6e,100:0a0f1e&height=120&section=footer" width="100%"/>
