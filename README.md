@@ -257,12 +257,12 @@ Agile-developed supply chain platform for a real B2B delivery business — cover
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Kirrrk-git&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" height="160"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kirrrk-git&layout=compact&theme=github_dark&hide_border=true&langs_count=8&hide=jupyter%20notebook,hack,batchfile" height="160"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Kirrrk-git&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=00000000&title_color=4B9FE1&text_color=6e7681&icon_color=4B9FE1" height="160"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kirrrk-git&layout=compact&hide_border=true&langs_count=8&hide=jupyter%20notebook,hack,batchfile&bg_color=00000000&title_color=4B9FE1&text_color=6e7681" height="160"/>
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Kirrrk-git&theme=github-dark-blue&hide_border=true&ring=4f46e5&fire=4f46e5&currStreakLabel=4f46e5)
+![GitHub Streak](https://streak-stats.demolab.com?user=Kirrrk-git&hide_border=true&background=00000000&ring=4B9FE1&fire=4B9FE1&currStreakLabel=4B9FE1&sideLabels=6e7681&dates=6e7681&currStreakNum=4B9FE1&sideNums=4B9FE1)
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Kirrrk-git&theme=react-dark&hide_border=true&color=60A5FA&line=3b82f6&point=60A5FA)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Kirrrk-git&bg_color=00000000&hide_border=true&color=4B9FE1&line=3b82f6&point=4B9FE1)
 
 </div>
 
