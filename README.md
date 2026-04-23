@@ -262,7 +262,9 @@ Agile-developed supply chain platform for a real B2B delivery business — cover
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Kirrrk-git&hide_border=true&background=00000000&ring=4B9FE1&fire=4B9FE1&currStreakLabel=4B9FE1&sideLabels=6e7681&dates=6e7681&currStreakNum=4B9FE1&sideNums=4B9FE1)
 
+<!--
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Kirrrk-git&bg_color=00000000&hide_border=true&color=4B9FE1&line=3b82f6&point=4B9FE1)
+-->
 
 </div>
 
