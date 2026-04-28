@@ -176,28 +176,6 @@ Full-stack delivery app with GPS tracking, REST APIs, and live order management 
 <br/>
 
 <table width="100%" border="0" cellpadding="0" cellspacing="0">
-<tr><td bgcolor="#8b5cf6" height="3"></td></tr>
-<tr><td bgcolor="#0d1117" style="padding:16px"><br/>
-
-<b>🔐 ZKP Web3 Security Platform</b> &nbsp;
-<img src="https://img.shields.io/badge/LISK%20Hackathon-FFB800?style=flat-square"/>
-<img src="https://img.shields.io/badge/OpenxAI%20Hackathon-8b5cf6?style=flat-square"/>
-&nbsp;
-<a href="https://github.com/Kirrrk-git/ARQIV_Prototype-main"><img src="https://img.shields.io/badge/Repo-30363d?style=flat-square&logo=github&logoColor=white"/></a>
-<br/><sub>Zero-knowledge proof security tooling on Solidity</sub><br/><br/>
-Solidity to zero-knowledge proof converter — enhances smart contract privacy and security by enabling verifiable computations without revealing underlying data.
-<br/><br/>
-<img src="https://img.shields.io/badge/React-20232A?style=flat-square"/>
-<img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square"/>
-<img src="https://img.shields.io/badge/Solidity-363636?style=flat-square"/>
-<br/><br/>
-
-</td></tr>
-</table>
-
-<br/>
-
-<table width="100%" border="0" cellpadding="0" cellspacing="0">
 <tr><td bgcolor="#3b82f6" height="3"></td></tr>
 <tr><td bgcolor="#0d1117" style="padding:16px"><br/>
 
@@ -232,22 +210,6 @@ Independently built full-stack platform for pet listings, profiles, and service 
 </table>
 
 <br/>
-
-<table width="100%" border="0" cellpadding="0" cellspacing="0">
-<tr><td bgcolor="#14b8a6" height="3"></td></tr>
-<tr><td bgcolor="#0d1117" style="padding:16px"><br/>
-
-<b>📦 Boxly Supply Chain System</b> &nbsp;
-<img src="https://img.shields.io/badge/Private-30363d?style=flat-square&logo=github&logoColor=white"/>
-<br/><sub>B2B delivery & supply chain platform</sub><br/><br/>
-Agile-developed supply chain platform for a real B2B delivery business — covering inventory tracking, logistics coordination, and order management.
-<br/><br/>
-<img src="https://img.shields.io/badge/Agile-0052CC?style=flat-square"/>
-<img src="https://img.shields.io/badge/System%20Design-14b8a6?style=flat-square"/>
-<br/><br/>
-
-</td></tr>
-</table>
 
 </div>
 
