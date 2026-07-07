@@ -12,7 +12,7 @@
 
 ## 👋 About Me
 ```
-🎓  3rd-year Computer Science student @ University of Mindanao
+🎓  A Computer Science student @ University of Mindanao
 🌏  Based in Davao, Philippines — open to remote work worldwide
 💼  Seeking part-time, freelance, or junior developer roles
 🤖  Interested in AI-integrated development and modern tooling
@@ -105,53 +105,6 @@
 </td>
 </tr>
 
-</table>
-
-</div>
-
----
-
-## 🚀 Featured Projects
-
-<div align="center">
-<br/>
-
-<table width="100%" border="0" cellpadding="0" cellspacing="0">
-<tr><td bgcolor="#6366f1" height="3"></td></tr>
-<tr><td bgcolor="#0d1117" style="padding:16px"><br/>
-
-<b>🌌 StoryVerse</b> &nbsp;
-<a href="https://story-verse-by-kirk.vercel.app"><img src="https://img.shields.io/badge/Live-6366f1?style=flat-square&logo=vercel&logoColor=white"/></a> &nbsp;
-<a href="https://github.com/Kirrrk-git/StoryVerse-StaticMirror"><img src="https://img.shields.io/badge/Repo-30363d?style=flat-square&logo=github&logoColor=white"/></a>
-<br/><sub>Collaborative 3D storytelling universe</sub><br/><br/>
-Writers build stories in an expanding 3D universe — navigate XYZ space to discover floating story windows, branch narratives like Git, and compete in branch wars when storylines diverge.
-<br/><br/>
-<img src="https://img.shields.io/badge/React-20232A?style=flat-square"/>
-<img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square"/>
-<img src="https://img.shields.io/badge/D3.js-F9A03C?style=flat-square"/>
-<img src="https://img.shields.io/badge/GSAP-88CE02?style=flat-square"/>
-<br/><br/>
-
-</td></tr>
-</table>
-
-<br/>
-
-<table width="100%" border="0" cellpadding="0" cellspacing="0">
-<tr><td bgcolor="#10b981" height="3"></td></tr>
-<tr><td bgcolor="#0d1117" style="padding:16px"><br/>
-
-<b>🦠 ML Disease Spread Simulation</b> &nbsp;
-<a href="https://github.com/Kirrrk-git/Disease-Spread-Simulation"><img src="https://img.shields.io/badge/Repo-30363d?style=flat-square&logo=github&logoColor=white"/></a>
-<br/><sub>Epidemiological SEIR modeling with machine learning</sub><br/><br/>
-SEIR simulation with Random Forest Classifier achieving ROC-AUC 0.88, with real-time Pygame visualization and predictive outbreak detection.
-<br/><br/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square"/>
-<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square"/>
-<img src="https://img.shields.io/badge/Pygame-3776AB?style=flat-square"/>
-<br/><br/>
-
-</td></tr>
 </table>
 
 </div>
